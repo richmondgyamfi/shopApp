@@ -1,0 +1,119 @@
+/* .form-center{
+	margin-right: 220px;
+} */
+.color{
+	background-color:
+	margin-left:20px;
+}
+.image{
+	height:350px;
+	width:320px;
+	margin-top: 15px;
+	margin-left: 4px;
+}
+.imaga{
+	height:250px;
+	width:320px;
+	/*margin-left: 20px;*/
+}
+.imag{
+	height:200px;
+	width:320px;
+	/*margin-right: 1px;*/
+}
+
+.circle{
+
+	width: 120px;
+	height: 40px;
+	background-color: #33322C;
+	margin-left: 150px;
+
+	border-radius: 70px;
+	text-align: center;
+	color: white;
+
+
+	float: right;
+}
+.blg{
+	border-radius: 50px;
+	padding: 0px 10px 3px 10px;
+	float: right;
+}
+.s_name{
+	float: right;
+	font-size: 13px;
+	/* margin-left: 40px; */
+}
+.h_text{
+	/* color: white; */
+
+}
+.imageModal{
+
+}
+#main1{
+	opacity: 0.7;
+	width: 100%;
+	height: 100%;
+	position: fixed;
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+#main{
+	z-index: 10;
+}
+#up_form{
+	background-color: ghostwhite;
+	padding-top: 1px;
+}
+#log_form{
+	background-color: ghostwhite;
+	padding-top: 1px;
+
+}
+
+#textformat{
+	color: white;
+}
+.t_tex{
+	color: white;
+
+}
+.f_mar{
+	/*padding-bottom: 4px;*/
+}
+.log_mar{
+	margin-top: 140px;
+}
+.sig_mar{
+	margin-top: 50px;
+}
+input.inpt{
+	width: 200px;
+}
+input.inpt1{
+	width: 70px;
+
+}
+.menuleft{
+	float: right;
+}
+.pad{
+	padding-top: 10px;
+}
+.c_btn{
+	/*margin-left: 10px;*/
+}
+.c_btn_p{
+	color: white;
+	margin-left: 40px;
+}
+.c_btn_b{
+	background-color: rgb(55, 58, 60);
+	color: white;
+}
